@@ -5,6 +5,6 @@
 
 ## You can Read My Blogs Here
 
-1)  
+1)  ```bash
  [Types Of Trasformation](https://dataisamazing.blogspot.com/2021/05/types-of-transformations-in-machine.html)
-
+```
