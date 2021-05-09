@@ -1,9 +1,9 @@
 ## Useful links
-[My LinkedIn Profile](https://www.linkedin.com/in/sunil-sharanappa/)
+1. [My LinkedIn Profile](https://www.linkedin.com/in/sunil-sharanappa/)
 
-[Google Colab Notebook](https://colab.research.google.com/drive/18aJZ2E4wYJ4QEDOUnwEladFJJcHYpCAd?usp=sharing)
+2. [Google Colab Notebook](https://colab.research.google.com/drive/18aJZ2E4wYJ4QEDOUnwEladFJJcHYpCAd?usp=sharing)
 
-[Hackathon Link](https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/#MySubmissions)
+3. [Hackathon Link](https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/#MySubmissions)
 
 ## Files in the Repo
 ```bash
