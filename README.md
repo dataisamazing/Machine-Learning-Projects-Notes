@@ -1,6 +1,6 @@
 # Machine-Learning
 
-* All ML and AI concepts and notes will be Uploded in this Space. 
+* All ML and AI Projects and notes will be Uploded in this Space. 
 
 
 ## You can Read My Blogs Here
